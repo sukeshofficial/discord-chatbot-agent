@@ -1,6 +1,6 @@
 # 🤖 Discord AI Chatbot with OpenAI
 
-This is a simple Discord chatbot that uses OpenAI's GPT model (e.g., GPT-3.5) to chat with users inside a Discord server.
+This is a simple Discord chatbot that uses OpenAI's GPT model (e.g., GPT-4o-mini) to chat with users inside a Discord server.
 
 ---
 
